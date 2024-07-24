@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aliakbarrockz
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Kotlin - Basics
-- 💞️ I’m looking to collaborate on Android Dev Projects
+- 👀 I’m interested in yapping about security, compliance, building infras for key verticals
+- 🌱 I’m currently learning ISC - CC
+- 💞️ I’m looking to collaborate on security mocks, Pentest, CVE analysis
 - 📫 How to reach me @aliakbarrockz - Surf it up on google
 
 <!---
